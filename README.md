@@ -3,7 +3,7 @@
 This is my first project on GitHub.
 
 ## 👨‍💻 About Me
-- Name: Manjeet Singh
+- Name: Manjeet Singh shekhawat 
 - Learning: Python & GitHub
 
 ## 📌 Project
