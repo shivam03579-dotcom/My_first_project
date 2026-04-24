@@ -59,4 +59,22 @@ Division = 2.0
 
    Manjeet singh shekhawat
 
-⭐ Give this repo a star if you like it!
+⭐ Give this repo a star if you like it
+
+
+# My Third Project 🚀
+
+➕ New Program: Even Odd Checker
+
+This program checks whether a number is even or odd.
+
+Example:
+
+Enter a number: 5
+Output: Odd Number
+
+👨‍💻 Author
+
+   Manjeet singh shekhawat
+
+⭐ Give this repo a star if you like it
